@@ -15,6 +15,8 @@ To run this project locally, you'll need to have Python installed. The required 
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn nltk
+```
+
 
 
 ## Usage
