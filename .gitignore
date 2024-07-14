@@ -1,0 +1,27 @@
+
+
+# dependencies
+/frontend/node_modules
+
+# production
+/frontend/dist
+
+# misc
+/frontend/.DS_Store
+/frontend/*.pem
+/frontend/*.log
+
+# local env files
+/frontend/.env
+/frontend/.env.*.local
+
+# Log files
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Editor directories and files
+/frontend/.vscode/
+/frontend/.idea/
+/frontend/*.sublime-project
+/frontend/*.sublime-workspace
