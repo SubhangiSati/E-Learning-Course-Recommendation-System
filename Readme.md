@@ -41,8 +41,8 @@ Cosine Similarity: Calculating the cosine similarity between the course vectors 
 6. Model Training-->> testing
 
 ## Credits
-@SubhangiSati
-@squeaky_pork
-@Dikshantgaur313
-@OM MITTAL
+[Subhangi Sati](https://github.com/SubhangiSati)
+[Kushagra Parasramka](https://github.com/KushagraParasramka)
+[Dikshant Gaur](https://github.com/Dikshantgaur313)
+[Om Mittal](https://github.com/OMRAKESHMITTAL)
 
