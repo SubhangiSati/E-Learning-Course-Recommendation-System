@@ -51,6 +51,10 @@ Cosine Similarity: Calculating the cosine similarity between the course vectors 
 1. Login / SignUp
 2. Dashboard
 
+## to run :-
+1. npm i - to install the dependencies
+2. npm run dev - to start the server
+
 ## Credits
 [Subhangi Sati](https://github.com/SubhangiSati)
 [Kushagra Parasramka](https://github.com/KushagraParasramka)
