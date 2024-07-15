@@ -40,6 +40,17 @@ Stemming: Using the Porter Stemmer from the nltk library to reduce words to thei
 Cosine Similarity: Calculating the cosine similarity between the course vectors to measure the similarity between different courses. This metric is used to find and recommend courses that are similar to a given input course.
 6. Model Training-->> testing
 
+
+
+# Frontend
+
+## Tech used
+1. React js
+
+## pages :-
+1. Login / SignUp
+2. Dashboard
+
 ## Credits
 [Subhangi Sati](https://github.com/SubhangiSati)
 [Kushagra Parasramka](https://github.com/KushagraParasramka)
